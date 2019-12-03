@@ -1,11 +1,11 @@
-my name is andrew
+My name is andrew.
 
-i'm 16 years old
+I'm 16 years old.
 
-i was born in brooklyn
+I was born in Brooklyn.
 
-my favorite color is black
+My favorite color is black.
 
-my favorite 3 artists are Michael Jackson, XXXTentacion, and Lil Pump
+My favorite 3 artists are Michael Jackson, XXXTentacion, and Lil Pump.
 
-on the weekends i like to play video games with friends
+On the weekends I like to play video games with friends.
